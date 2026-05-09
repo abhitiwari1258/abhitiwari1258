@@ -15,9 +15,9 @@
 ## 🌟 About Me
 
 - 🔭 Currently building **Full Stack MERN Applications**
-- 🌱 Learning **Advanced React & Backend Architecture**
+- 🌱 Learning **FullStack & Backend Architecture**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB,C++**
 - ⚡ Passionate about building responsive and scalable web apps
 - 📫 Reach me at: **abhishektiwari1258@gmail.com**
 
@@ -55,17 +55,28 @@
 
 ## 📌 Featured Projects
 
-### 🌐 Full Stack Portfolio
-- Responsive portfolio website
-- Dark mode support
-- React + Tailwind CSS
-- Admin dashboard integration
 
-### 📱 Social Media MERN App
-- Authentication & Authorization
-- CRUD functionality
-- Comment & Post system
-- REST APIs
+### 🌐 Full Stack Portfolio
+- Responsive portfolio website with admin dashboard
+- JWT authentication & protected routes
+- CRUD operations for projects and contacts
+- Dark mode using Context API
+- Interactive charts using Recharts
+- React, Tailwind CSS, Node.js, Express, MongoDB
+
+### 💼 Rojgar Mitra
+- Job portal web application
+- User authentication & authorization
+- Job posting and application system
+- MERN stack based architecture
+- REST API integration
+
+### 🏢 Employee Management System
+- Employee record management
+- CRUD operations functionality
+- Secure backend APIs
+- MongoDB database integration
+- Responsive admin dashboard
 
 ---
 
