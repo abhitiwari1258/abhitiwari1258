@@ -1,28 +1,111 @@
-<h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | React • Node.js • MongoDB</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhitiwari1258&label=Profile%20views&color=0e75b6&style=flat" alt="abhitiwari1258" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhitiwari1258" alt="abhitiwari1258" /></a> </p>
-
-- 🌱 I’m currently learning **FullStack**
-
-- 💬 Ask me about **JS,React,Node,Express,C++,**
-
-- 📫 How to reach me **abhishektiwari1258@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-tiwari-054bab34b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-tiwari-054bab34b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhishektiwari_2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishektiwari_2024/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/086836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="086836" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abhishek+Tiwari;Full+Stack+Developer;MERN+Stack+Enthusiast;React+%7C+Node.js+%7C+MongoDB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=220&section=header&text=Abhishek%20Tiwari&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhitiwari1258&show_icons=true&locale=en&layout=compact" alt="abhitiwari1258" /></p>
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | React • Node.js • MongoDB
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhitiwari1258&show_icons=true&locale=en" alt="abhitiwari1258" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhitiwari1258&" alt="abhitiwari1258" /></p>
+## 🌟 About Me
+
+- 🔭 Currently building **Full Stack MERN Applications**
+- 🌱 Learning **Advanced React & Backend Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
+- ⚡ Passionate about building responsive and scalable web apps
+- 📫 Reach me at: **abhishektiwari1258@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/abhishek-tiwari">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/abhitiwari1258">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://leetcode.com/abhishektiwari_2024">
+  <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+</a>
+
+<a href="mailto:abhishektiwari1258@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+</p>
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,vscode,cpp" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Full Stack Portfolio
+- Responsive portfolio website
+- Dark mode support
+- React + Tailwind CSS
+- Admin dashboard integration
+
+### 📱 Social Media MERN App
+- Authentication & Authorization
+- CRUD functionality
+- Comment & Post system
+- REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhitiwari1258&show_icons=true&theme=tokyonight" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhitiwari1258&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhitiwari1258&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhitiwari1258&theme=tokyonight&row=1&margin-w=15" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhitiwari1258&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/abhitiwari1258/abhitiwari1258/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
